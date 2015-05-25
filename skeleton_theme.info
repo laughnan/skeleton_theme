@@ -4,7 +4,7 @@ description = A dead simple, responsive boilerplate.
 
 core	    = 7.x
 
-;stylesheets[all][] = css/styles.css
+stylesheets[all][] = css/styles.css
 
 ;scripts[] = js/script.js
 
