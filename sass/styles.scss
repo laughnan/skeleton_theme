@@ -2,5 +2,8 @@
 /* HTML element (SMACSS base) rules */
 @import "normalize";
 
-/* Variables for the Skeleton theme */
+/* Base Skeleton CSS framework */
+@import "skeleton/base";
+
+/* Variable overrides file for the Skeleton theme */
 @import "variables";
